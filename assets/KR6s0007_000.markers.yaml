@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6s0007/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6s0007_P_000-0327a, ed: P, 'n': 0327a, source_xml_id: P181.1615.0327a}
   - {type: line-break, offset: 0, content: '', id: KR6s0007_P_000-0327a01, ed: P, 'n': 0327a01}
   - {type: 其他, offset: 0, content: 總目上, id: KR6s0007_P_000-mulu-1, level: '1'}
@@ -8538,6 +8538,5 @@ markers:
   - {type: page-break, offset: 23810, content: '', id: KR6s0007_P_000-0407a, ed: P, 'n': 0407a, source_xml_id: P181.1615.0407a}
   - {type: line-break, offset: 23810, content: '', id: KR6s0007_P_000-0407a01, ed: P, 'n': 0407a01}
   - {type: 其他, offset: 23810, content: 一, id: KR6s0007_P_000-mulu-3, level: '1'}
-  body: []
   back: []
-hash: sha256:401e07c241e67f8aa700a07bb020664264fa9665d737a528a79be74f6df731ae
+hash: sha256:c1c3fdd22d66b11a8f0cda6ad9f0ab96c16e5f33765dfa6949abef161d44626c
